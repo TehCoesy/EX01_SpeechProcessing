@@ -101,3 +101,5 @@ for s in txt_extracted_content:
     print("Output: " + file_name)
     input("Press any key to start recording.")
     record(file_name)
+
+inputThread._stop()
