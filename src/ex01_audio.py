@@ -89,17 +89,18 @@ def record(file_name):
 
 
 #Recording
+def mainRecording():
+    inputThread = threading.Thread(target=read_kb_input, args=(inputQueue,), daemon=True)
+    inputThread.start()
 
-inputThread = threading.Thread(target=read_kb_input, args=(inputQueue,))
-inputThread.start()
+    i = 0
+    for s in txt_extracted_content:
+        print("\"{}.\"\n".format(s))
+        file_name = OUTPUT_DIR + "/" + FILE_APPEND + "_{}.wav".format(i)
+        i += 1
+        print("Output: " + file_name)
+        input("Press any key to start recording.")
+        record(file_name)
+    return
 
-i = 0
-for s in txt_extracted_content:
-    print("\"{}.\"\n".format(s))
-    file_name = OUTPUT_DIR + "/" + FILE_APPEND + "_{}.wav".format(i)
-    i += 1
-    print("Output: " + file_name)
-    input("Press any key to start recording.")
-    record(file_name)
-
-inputThread._stop()
+mainRecording()
