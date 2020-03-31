@@ -1,0 +1,26 @@
+ThoiSu/thoisu_0.wav
+"Nghệ An, Hà Tĩnh và Quảng Nam tạm dừng nhiều tuyến xe buýt nội tỉnh và liên tỉnh do ảnh hưởng của Covid-19."
+ThoiSu/thoisu_1.wav
+"Nghệ An tạm dừng toàn bộ hoạt động xe buýt trên địa bàn từ ngày 28/3 đến 15/4."
+ThoiSu/thoisu_2.wav
+"Đối với taxi và xe hợp đồng, nhà chức trách yêu cầu hạ kính xe, không dùng điều hòa; tài xế đeo khẩu trang, khử khuẩn xe trước và sau khi đón khách."
+ThoiSu/thoisu_3.wav
+"Toàn tỉnh có 10 doanh nghiệp đầu tư 18 tuyến xe buýt với gần 300 phương tiện."
+ThoiSu/thoisu_4.wav
+"Mỗi ngày có hơn 1,200 lượt xe trên các  tuyến khác nhau."
+ThoiSu/thoisu_5.wav
+"Tại Hà Tĩnh, Sở Giao thông Vận tải tạm dừng 8 tuyến xe buýt (không trợ giá) nối thành phố Hà Tĩnh với các huyện, thị xã trong tỉnh và huyện Nam Đàn, thành phố Vinh (Nghệ An) từ 0h ngày 31/3; sẽ mở lại khi có thông báo mới."
+ThoiSu/thoisu_6.wav
+"Toàn tỉnh có 9 tuyến, tổng số 128 xe."
+ThoiSu/thoisu_7.wav
+"Sở giữ lại tuyến thành phố Hà Tĩnh – Kỳ Phương (thị xã Kỳ Anh) của Công ty Vận tải ôtô Hà Tĩnh, bởi đây là tuyến đặc thù chở người lao động, công nhân vào làm việc ở Khu kinh tế Vũng Áng."
+ThoiSu/thoisu_8.wav
+"Tần suất của tuyến này là 1h30 phút một chuyến, chở không quá 20 người."
+ThoiSu/thoisu_9.wav
+"Quảng Nam quyết định dừng các tuyến xe buýt liên tỉnh liền kề và xe buýt nội tỉnh từ 0h ngày 31/3 đến hết ngày 15/4."
+ThoiSu/thoisu_10.wav
+"Riêng tuyến Núi Thành – Tam Kỳ và ngược lại chỉ hoạt động một nốt đầu buổi sáng và một nốt cuối buổi chiều."
+ThoiSu/thoisu_11.wav
+"Tuyến Bắc Trà My - Tam Kỳ và ngược lại xuất bến tại hai đầu tuyến vào các giờ 6h00, 9h00, 13h00 và 16h00."
+ThoiSu/thoisu_12.wav
+"Sở Giao thông Vận tải Quảng Nam yêu cầu các xe được phép hoạt động phải khử khuẩn xe trước và sau khi đón khách; không vận chuyển quá 50% số ghế và không quá 20 người trên một chuyến."
