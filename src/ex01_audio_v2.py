@@ -99,7 +99,7 @@ def mainRecording():
 
     index_file = None
     if args.index:
-        index_file = open(os.path.join(OUTPUT_DIR + args.index), "w")
+        index_file = open(os.path.join(OUTPUT_DIR, args.index), "w")
 
     i = 0
     for s in txt_extracted_content:
